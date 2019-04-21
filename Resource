@@ -1,0 +1,25 @@
+Networks Penetration Testing Related Scripts, Tools And Cheatsheets:-
+
+https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/networks
+https://github.com/nccgroup/gitpwnd
+https://github.com/GoVanguard/list-pentest-tools
+https://github.com/wtsxDev/Penetration-Testing#network-tools
+https://github.com/ralvarep/Penetration-Testing
+https://github.com/portantier/habu
+https://github.com/noobscode/kalel
+https://github.com/koutto/jok3r
+https://github.com/secforce/sparta
+
+Remote Code Execution Writeups :-
+
+https://link.medium.com/llpl9c7PCV
+https://link.medium.com/93SSfq9PCV
+https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
+https://outpost24.com/blog/from-local-file-inclusion-to-remote-code-execution-part-1
+https://outpost24.com/blog/from-local-file-inclusion-to-remote-code-execution-part-2
+
+BugHunting methadology:
+https://medium.com/@trapp3rhat/bug-hunting-methodology-part-3-457eaf9768a5
+
+Xss :
+https://gauravnarwani.com/a-tale-of-3-xss/
